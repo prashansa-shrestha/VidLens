@@ -1,0 +1,10 @@
+fastapi
+python-multipart
+uvicorn
+Pillow
+opencv-python
+moviepy
+openai-whisper
+google-generativeai
+python-dotenv
+numpy

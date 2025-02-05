@@ -1,0 +1,27 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+app.log*
+
+# Media files
+*.mp4
+*.mp3
+*.wav
+*.MOV
+*.png
+*.jpg
+*.jpeg
+
+# Temporary files
+tempCodeRunnerFile.py
+
+# Documents
+*.pdf
+*.docx
